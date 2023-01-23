@@ -6,7 +6,7 @@
 	align-items: center;
 	justify-content: center;
 	gap: 32px;
-	background-image: url(/images/cover-trains.jpg);
+	background-image: url(../../../images/cover-trains.jpg);
 	background-size: cover;
 	background-position: center;
 	color: white;
