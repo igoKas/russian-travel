@@ -2,4 +2,4 @@
 
 ### Описание проекта:
 Адаптивная верстка макета Путешествие по России. Реализовано с помощью flexbox, grid и media queries.
-[Github pages](https://igokas.github.io/russian-travel/)
+Ссылка на проект: [Github pages](https://igokas.github.io/russian-travel/)
